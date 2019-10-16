@@ -11,7 +11,7 @@
     font-family: sans-serif;
     padding: 20px
 }
-.background{
+./*background{
 	background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,0.5)), url(black_female.jpg);
 	width: 1550px;
 	height:500px;
@@ -19,6 +19,7 @@
 	background-size: cover;
 	background-position: center;
 	text-align: center;
+	*/
 }
 .box{
 background-color: white;
@@ -76,4 +77,8 @@ p{
 }
 #size{
 	font-size: 36px;
+}
+a{
+	text-decoration-line: none;
+	color: black; 
 }
