@@ -11,15 +11,15 @@
     font-family: sans-serif;
     padding: 20px
 }
-./*background{
-	background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,0.5)), url(black_female.jpg);
+.background{
+	background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,0.5)), url(/img/black_female.jpg);
 	width: 1550px;
 	height:500px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 	text-align: center;
-	*/
+	
 }
 .box{
 background-color: white;
