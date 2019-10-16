@@ -1,0 +1,59 @@
+.list{
+	list-style-type: none;
+	margin: 5px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+.inline {
+	display: inline;
+	margin: 10px;
+}
+.background{
+	background-color: purple;
+	padding: 10px;
+	font-style: normal;
+	text-align: center;
+}
+.footer{
+	background-color: purple;
+	color: white;
+	padding: 10px;
+}
+.h1ele{
+      font-family: cursive;
+      color: purple;
+      margin: 20px;
+}
+p{
+	color: brown;
+	font-style: oblique;
+}
+ul{
+	list-style-type: lower-roman;
+    color: brown;
+    font-style: oblique;
+}
+.div{
+          border: 10px dashed red;
+          background-color: pink;
+          border-radius: 10px;
+          margin: 10px;
+          width: 320px;
+}
+img{ display: block;
+	 margin: 10px auto;
+	 width: 320px;
+	 height: 320px;
+     border: 10px solid red;
+     background-color: pink;
+     border-radius: 50%;
+}
+.img{
+	border-style: dotted!important;
+	position: relative;
+	/*border-right: 50rem!important;*/
+	/*border:1px solid black;*/
+}
